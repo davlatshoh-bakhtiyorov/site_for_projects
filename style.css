@@ -23,7 +23,7 @@ a {
 }
 
 .about_me a{
-    text-align: left;
+    text-align: center;
     color: #ffffff;
     box-shadow: 0 0 5px #01C3A7, 0 0 15px #01C3A7;
     display: inline-block;
@@ -37,6 +37,7 @@ a {
     transition: background 0.3s ease;
     margin-top: 45px; 
     margin-left: 640px;
+
   }
   
   .about_me a:hover {
